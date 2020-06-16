@@ -1,0 +1,95 @@
+{
+    "users" : [
+            {
+                "id": 1,
+                "nama": "Agus Syafiudin",
+                "alamat": "Kp.Kukun",
+                "umur": 21,
+                "nohp": "082213758401"
+              },
+              {
+                "id": 2,
+                "nama": "Abizard",
+                "alamat": "Kp.Rajeg",
+                "umur": 21,
+                "nohp": "082213758401"
+              },
+              {
+                "id": 3,
+                "nama": "uwi",
+                "alamat": "Kp.bango",
+                "umur": 21,
+                "nohp": "082213758401"
+              },
+              {
+                "id": 4,
+                "nama": "rafif",
+                "alamat": "Kp.bango",
+                "umur": 21,
+                "nohp": "082213758401"
+              },
+              {
+                "id": 5,
+                "nama": "uwi",
+                "alamat": "Kp.bango",
+                "umur": 21,
+                "nohp": "082213758401"
+              },
+              {
+                "id": 6,
+                "nama": "uwi",
+                "alamat": "Kp.bango",
+                "umur": 21,
+                "nohp": "082213758401"
+              },
+              {
+                "id": 7,
+                "nama": "uwi",
+                "alamat": "Kp.bango",
+                "umur": 21,
+                "nohp": "082213758401"
+              },
+              {
+                "id": 8,
+                "nama": "uwi",
+                "alamat": "Kp.bango",
+                "umur": 21,
+                "nohp": "082213758401"
+              },
+              {
+                "id": 9,
+                "nama": "uwi",
+                "alamat": "Kp.bango",
+                "umur": 21,
+                "nohp": "082213758401"
+              },
+              {
+                "id": 10,
+                "nama": "uwi",
+                "alamat": "Kp.bango",
+                "umur": 21,
+                "nohp": "082213758401"
+              },
+              {
+                "id": 11,
+                "nama": "uwi",
+                "alamat": "Kp.bango",
+                "umur": 21,
+                "nohp": "082213758401"
+              },
+              {
+                "id": 12,
+                "nama": "uwi",
+                "alamat": "Kp.bango",
+                "umur": 21,
+                "nohp": "082213758401"
+              },
+              {
+                "id": 13,
+                "nama": "uwi",
+                "alamat": "Kp.bango",
+                "umur": 21,
+                "nohp": "082213758401"
+              }
+    ]
+}
